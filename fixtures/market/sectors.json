@@ -1,0 +1,26 @@
+{
+  "AAPL": {
+    "sector": "Technology",
+    "industry": "Consumer Electronics",
+    "company_name": "Apple Inc",
+    "source": "fixture"
+  },
+  "MSFT": {
+    "sector": "Technology",
+    "industry": "Software",
+    "company_name": "Microsoft",
+    "source": "fixture"
+  },
+  "XYZ": {
+    "sector": "Industrials",
+    "industry": "Conglomerate",
+    "company_name": "XYZ Corp",
+    "source": "fixture"
+  },
+  "GENERIC": {
+    "sector": "Unknown",
+    "industry": "Unknown",
+    "company_name": "Generic",
+    "source": "fixture"
+  }
+}

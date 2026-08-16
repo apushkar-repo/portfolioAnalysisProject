@@ -1,0 +1,17 @@
+[theme]
+# Explicit default so the in-app Dark mode toggle always agrees with what is
+# rendered. Without this, Streamlit falls back to the browser's color-scheme
+# preference and the toggle can disagree with the actual appearance.
+# The app flips this at runtime via the header theme icon.
+base = "light"
+
+[server]
+# Explicit deployment-safe defaults: no automatic source reload and a strict
+# per-file upload ceiling (also enforced in the ingestion pipeline).
+runOnSave = false
+maxUploadSize = 2
+enableXsrfProtection = true
+enableCORS = true
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,23 @@
+{
+  "ticker": "MSFT",
+  "articles": [
+    {
+      "title": "Microsoft cloud earnings beat",
+      "snippet": "Azure growth strong, guidance raised.",
+      "published_at": "2026-05-20T12:00:00+00:00",
+      "source": "fixture"
+    },
+    {
+      "title": "Fed rates and software multiples",
+      "snippet": "Macro rates debate for tech valuations.",
+      "published_at": "2026-03-10T12:00:00+00:00",
+      "source": "fixture"
+    },
+    {
+      "title": "Microsoft antitrust regulatory watch",
+      "snippet": "SEC and regulation headlines persist.",
+      "published_at": "2025-01-15T12:00:00+00:00",
+      "source": "fixture"
+    }
+  ]
+}

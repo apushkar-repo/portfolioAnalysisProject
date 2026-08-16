@@ -1,0 +1,8 @@
+# Portfolio Analysis App — runtime dependencies
+streamlit==1.61.1
+pandas==2.3.3
+numpy==2.5.2
+yfinance==0.2.66
+python-dateutil==2.9.0.post0
+reportlab==5.0.0
+openai==3.1.0

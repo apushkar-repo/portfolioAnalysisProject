@@ -1,0 +1,47 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Models / caches
+.cache/
+huggingface/
+transformers_cache/
+*.bin
+*.safetensors
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/secrets.toml.*
+!.streamlit/secrets.toml.example
+
+# Playwright / test artifacts
+artifacts/
+e2e/test-results/
+e2e/playwright-report/
+node_modules/
+
+# OS / IDE
+.DS_Store
+**/._*
+._*
+.idea/
+.vscode/
+*.swp
+
+# Misc
+*.log

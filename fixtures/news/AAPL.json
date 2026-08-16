@@ -1,0 +1,33 @@
+{
+  "ticker": "AAPL",
+  "articles": [
+    {
+      "title": "Apple earnings beat estimates, guidance raised",
+      "snippet": "Strong iPhone growth and services outlook.",
+      "published_at": "2026-06-01T12:00:00+00:00",
+      "source": "fixture",
+      "url": "https://example.com/aapl1"
+    },
+    {
+      "title": "Analyst upgrade on Apple",
+      "snippet": "Bullish on AI features and margins.",
+      "published_at": "2026-07-15T12:00:00+00:00",
+      "source": "fixture",
+      "url": "https://example.com/aapl2"
+    },
+    {
+      "title": "Tariffs concern for consumer electronics",
+      "snippet": "Geopolitical tariffs may pressure supply chain.",
+      "published_at": "2025-11-01T12:00:00+00:00",
+      "source": "fixture",
+      "url": "https://example.com/aapl3"
+    },
+    {
+      "title": "Apple long-term services growth",
+      "snippet": "Recurring revenue expand over years.",
+      "published_at": "2024-02-01T12:00:00+00:00",
+      "source": "fixture",
+      "url": "https://example.com/aapl4"
+    }
+  ]
+}
